@@ -15,7 +15,7 @@ Parameters provided:
 ---
 
 **Generated Output (PDF):**  
-👉 [View Meal Intake Plan](meal_intake_output.pdf)
+*It has generated a meal plan pdf, which you can access in the folder.*
 
 ---
 
