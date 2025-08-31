@@ -11,8 +11,11 @@ Parameters provided:
 
 ---
 
+
+---
+
 **Generated Output (PDF):**  
-[View Meal Intake Plan](meal_intake_output.pdf)
+👉 [View Meal Intake Plan](meal_intake_output.pdf)
 
 ---
 
@@ -28,5 +31,7 @@ The AI generated a **7-day structured meal plan** including:
 - Macronutrient breakdown.  
 - Grocery prioritization.  
 - Zigzag calorie cycling for better weight management.
+
+
 
 
